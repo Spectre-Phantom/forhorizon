@@ -1,0 +1,156 @@
+Uri: https://elevenone.io/images/ceo/daler.jpg
+File Name: C:\Downloaded Web Sites\www.electicode.com\images\ceo\daler.jpg
+Content Type: image/jpeg
+
+Uri: https://elevenone.io/images/ceo/farhod.jpg
+File Name: C:\Downloaded Web Sites\www.electicode.com\images\ceo\farhod.jpg
+Content Type: image/jpeg
+
+Uri: https://elevenone.io/images/instructors/fariddun.jpg
+File Name: C:\Downloaded Web Sites\www.electicode.com\images\instructors\fariddun.jpg
+Content Type: image/jpeg
+
+Uri: https://elevenone.io/images/instructors/jamshed.png
+File Name: C:\Downloaded Web Sites\www.electicode.com\images\instructors\jamshed.png
+Content Type: image/png
+
+Uri: https://elevenone.io/images/instructors/muhammadfiruz.png
+File Name: C:\Downloaded Web Sites\www.electicode.com\images\instructors\muhammadfiruz.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\www.electicode.com\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
+Uri: https://www.electicode.com/en
+File Name: C:\Downloaded Web Sites\www.electicode.com\en.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/en/auth/login
+File Name: C:\Downloaded Web Sites\www.electicode.com\en\auth\login-1.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/en/auth/login?from=%2Fen%2Fproblems
+File Name: C:\Downloaded Web Sites\www.electicode.com\en\auth\login.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/en/contests
+File Name: C:\Downloaded Web Sites\www.electicode.com\en\contests.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/en/hall-of-fame
+File Name: C:\Downloaded Web Sites\www.electicode.com\en\hall-of-fame.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/en/resources
+File Name: C:\Downloaded Web Sites\www.electicode.com\en\resources.html
+Content Type: text/html
+
+Uri: https://www.electicode.com/map.png
+File Name: C:\Downloaded Web Sites\www.electicode.com\map.png
+Content Type: image/png
+
+Uri: https://www.electicode.com/_next/static/chunks/31255-9861f407b31a71da.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\31255-9861f407b31a71da.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/37033-d5c634502fb244ec.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\37033-d5c634502fb244ec.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/4038-30bcbaf43b94835b.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\4038-30bcbaf43b94835b.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/42551-6486d9ee2b2c373b.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\42551-6486d9ee2b2c373b.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/4bd1b696-2135e4d8b8354323.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\4bd1b696-2135e4d8b8354323.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/52619-f2cabc0d7be67480.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\52619-f2cabc0d7be67480.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/59514-9e2cdafcf9efe7fc.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\59514-9e2cdafcf9efe7fc.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/67967-4a8521be639a1b05.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\67967-4a8521be639a1b05.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/85091-ec891c9f050f5cb0.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\85091-ec891c9f050f5cb0.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/90074-fa1eddce79e801ee.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\90074-fa1eddce79e801ee.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/953-86a916435cdf80dd.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\953-86a916435cdf80dd.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/auth/layout-930d9d41df437325.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\auth\layout-930d9d41df437325.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/auth/login/page-56bdb454b2c5dbe6.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\auth\login\page-56bdb454b2c5dbe6.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/error-60d79f77da43072c.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\error-60d79f77da43072c.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/hall-of-fame/page-99f24b3df5c7990f.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\hall-of-fame\page-99f24b3df5c7990f.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/layout-548dca7999360306.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\layout-548dca7999360306.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/[locale]/page-f04f3a09e35881f4.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\[locale]\page-f04f3a09e35881f4.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/app/layout-f2a6727ec19958bc.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\app\layout-f2a6727ec19958bc.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/c16f53c3-40719a8434fbbd2d.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\c16f53c3-40719a8434fbbd2d.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/f4898fe8-59c0ad6ff4d12160.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\f4898fe8-59c0ad6ff4d12160.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/main-app-9a791045675043cc.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\main-app-9a791045675043cc.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/chunks/webpack-cd2537128a92deea.js
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\chunks\webpack-cd2537128a92deea.js
+Content Type: application/javascript
+
+Uri: https://www.electicode.com/_next/static/css/14ff3bbdd1ba7049.css
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\css\14ff3bbdd1ba7049.css
+Content Type: text/css
+
+Uri: https://www.electicode.com/_next/static/css/7177641144c724b3.css
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\css\7177641144c724b3.css
+Content Type: text/css
+
+Uri: https://www.electicode.com/_next/static/css/c0d2b42d7f177b47.css
+File Name: C:\Downloaded Web Sites\www.electicode.com\_next\static\css\c0d2b42d7f177b47.css
+Content Type: text/css
+
